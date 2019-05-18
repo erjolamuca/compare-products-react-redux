@@ -1,33 +1,46 @@
-.App {
-  text-align: center;
+.tableProducts {
+  margin-top: 50px;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.tableProducts thead {
+  color: #00cc99;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.tableProducts tbody {
+  font-style: italic;
 }
 
-.App-link {
-  color: #61dafb;
+.tableProducts td {
+  border-color: #00cc99 !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.navbar {
+  background-color: #00cc99 !important;
+}
+
+.navbar-brand {
+  color: white !important;
+  font-weight: bold;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.card {
+  margin-top: 50px;
+  border-bottom: 3px solid #00cc99 !important;
+}
+
+.card-title {
+  font-style: italic;
+}
+
+.cardButton {
+  background-color: white !important;
+  color: #00cc99 !important;
+  border: 1px solid #00cc99 !important;
+  float: right;
+}
+
+.card-img-top {
+  height: 169px !important;
 }

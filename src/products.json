@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "price": 0.79,
+    "calories": 52,
+    "image": "apple1.jpg",
+    "colour": "green",
+    "quantity": 100
+  },
+  {
+    "id": 2,
+    "name": "Lemon",
+    "price": 0.15,
+    "calories": 29,
+    "image": "lemon1.jpg",
+    "colour": "yellow",
+    "quantity": 100
+  },
+  {
+    "id": 3,
+    "name": "Orange",
+    "price": 0.23,
+    "calories": 36,
+    "image": "orange1.jpg",
+    "colour": "orange",
+    "quantity": 100
+  },
+  {
+    "id": 4,
+    "name": "Pomegranate",
+    "price": 0.33,
+    "calories": 83,
+    "image": "pomegranate1.jpg",
+    "colour": "red",
+    "quantity": 100
+  }
+]
